@@ -9,3 +9,6 @@ My process of developing this scene was somewhat similar in nature to my design 
 
 ## How can computer science help me in reaching my goals?
 In the simplest sense, my main goal is to acquire my Bachelor's Degree and move onto a job in the field of software development. I have numerous reasons for desiring this, but they mostly boil down to two main points: 1) I am passionate about software development, and 2) there is significant financial incentive to get into the field. That said, my first reason carries *much* more weight than the second; I did not pursue computer science for the money but rather for the passion I have for it. I design and develop software in my free time, mostly video games, and I would like to translate this passion into a career.
+
+![image](https://github.com/ifound1dollar/SNHU_CS330_Project/assets/70394552/d859832c-ed17-490a-8d8f-db813879d81a)
+![image](https://github.com/ifound1dollar/SNHU_CS330_Project/assets/70394552/3ab0b5e6-3f10-4fb2-8d90-d84471a45898)
